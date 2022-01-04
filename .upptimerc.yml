@@ -23,7 +23,7 @@ sites:
 
 status-website:
   baseUrl: /upp
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/nikolai-cc/upp/master/assets/sadcomputer.jpg
   name: Upptime
   theme: ocean
   introTitle: "**nikolai-cc**"
