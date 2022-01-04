@@ -28,6 +28,9 @@ status-website:
   theme: ocean
   introTitle: "**nikolai-cc**"
   introMessage: "Some sites."
+  metaTags:
+    - name: "robots"
+      content: "noindex"
   navbar:
     - title: Go away
       href: https://nikolai.cc
