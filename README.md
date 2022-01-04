@@ -1,1 +1,1 @@
-Status page powered by **Upptime** (https://upptime.js.org)
+# [📈 Live Status](https://nikolai-cc.github.io/upp): <!--live status--> **🟩 All systems operational**
