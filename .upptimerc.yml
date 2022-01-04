@@ -12,7 +12,7 @@ sites:
   - name: Massasjehuset
     url: https://www.massasjehuset.nl
   - name: Rob Alofs
-    url: https://www.robalofs.nl
+    url: http://www.robalofs.nl
   - name: Betsinor
     url: https://www.betsinor.fr
   - name: LEDbits
