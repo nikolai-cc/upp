@@ -19,6 +19,8 @@ sites:
     url: https://www.ledbits.eu
   - name: Bumi Bars
     url: https://www.bumibars.nl
+  - name: Failing link
+    url: https://sadjksadjaskldasj.de
 
 
 status-website:
