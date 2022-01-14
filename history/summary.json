@@ -130,19 +130,19 @@
     "url": "https://www.bumibars.nl",
     "icon": "https://favicons.githubusercontent.com/www.bumibars.nl",
     "slug": "bumi-bars",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2930,
-    "timeDay": 3034,
-    "timeWeek": 3053,
-    "timeMonth": 2930,
-    "timeYear": 2930,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 2958,
+    "timeDay": 3237,
+    "timeWeek": 3102,
+    "timeMonth": 2958,
+    "timeYear": 2958,
     "dailyMinutesDown": {
-      "2022-01-14": 0
+      "2022-01-14": 11
     }
   }
 ]
