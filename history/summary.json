@@ -130,7 +130,7 @@
     "url": "https://www.bumibars.nl",
     "icon": "https://favicons.githubusercontent.com/www.bumibars.nl",
     "slug": "bumi-bars",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -141,6 +141,8 @@
     "timeWeek": 3053,
     "timeMonth": 2930,
     "timeYear": 2930,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-14": 0
+    }
   }
 ]
