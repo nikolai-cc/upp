@@ -22,10 +22,10 @@
     "url": "https://www.altijd.design",
     "icon": "https://favicons.githubusercontent.com/www.altijd.design",
     "slug": "altijd-design",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 620,
@@ -33,7 +33,9 @@
     "timeWeek": 624,
     "timeMonth": 620,
     "timeYear": 620,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-25": 1
+    }
   },
   {
     "name": "theministry",
@@ -76,10 +78,10 @@
     "url": "http://www.robalofs.nl",
     "icon": "https://favicons.githubusercontent.com/www.robalofs.nl",
     "slug": "rob-alofs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 391,
@@ -87,7 +89,9 @@
     "timeWeek": 422,
     "timeMonth": 391,
     "timeYear": 391,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-25": 1
+    }
   },
   {
     "name": "Betsinor",
@@ -112,9 +116,9 @@
     "url": "https://www.ledbits.eu",
     "icon": "https://favicons.githubusercontent.com/www.ledbits.eu",
     "slug": "le-dbits",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -123,7 +127,9 @@
     "timeWeek": 611,
     "timeMonth": 602,
     "timeYear": 602,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-25": 0
+    }
   },
   {
     "name": "Bumi Bars",
