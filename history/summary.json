@@ -42,9 +42,9 @@
     "url": "https://www.theministry.co",
     "icon": "https://favicons.githubusercontent.com/www.theministry.co",
     "slug": "theministry",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +53,9 @@
     "timeWeek": 81,
     "timeMonth": 129,
     "timeYear": 224,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-09": 0
+    }
   },
   {
     "name": "Massasjehuset",
