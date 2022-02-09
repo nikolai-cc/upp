@@ -43,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/www.theministry.co",
     "slug": "theministry",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "97.09%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.92%",
+    "uptime": "99.94%",
+    "uptimeDay": "97.85%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.94%",
     "time": 221,
     "timeDay": 144,
     "timeWeek": 111,
     "timeMonth": 133,
     "timeYear": 221,
     "dailyMinutesDown": {
-      "2022-02-09": 42
+      "2022-02-09": 31
     }
   },
   {
@@ -138,18 +138,19 @@
     "url": "https://www.bumibars.nl",
     "icon": "https://favicons.githubusercontent.com/www.bumibars.nl",
     "slug": "bumi-bars",
-    "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.90%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "99.89%",
+    "uptimeYear": "99.90%",
     "time": 2651,
     "timeDay": 1221,
     "timeWeek": 2358,
     "timeMonth": 2581,
     "timeYear": 2651,
     "dailyMinutesDown": {
+      "2022-02-09": 0,
       "2022-02-02": 19,
       "2022-01-30": 15,
       "2022-01-17": 20
