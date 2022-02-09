@@ -42,19 +42,19 @@
     "url": "https://www.theministry.co",
     "icon": "https://favicons.githubusercontent.com/www.theministry.co",
     "slug": "theministry",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "97.84%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.94%",
-    "time": 225,
-    "timeDay": 157,
-    "timeWeek": 106,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "97.09%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.92%",
+    "time": 223,
+    "timeDay": 146,
+    "timeWeek": 108,
     "timeMonth": 133,
-    "timeYear": 225,
+    "timeYear": 223,
     "dailyMinutesDown": {
-      "2022-02-09": 31
+      "2022-02-09": 42
     }
   },
   {
@@ -146,7 +146,7 @@
     "uptimeYear": "99.89%",
     "time": 2651,
     "timeDay": 1221,
-    "timeWeek": 2557,
+    "timeWeek": 2358,
     "timeMonth": 2581,
     "timeYear": 2651,
     "dailyMinutesDown": {
