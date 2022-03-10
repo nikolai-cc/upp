@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/www.nikolai.cc",
     "slug": "nikolai-cc",
     "status": "up",
-    "uptime": "93.80%",
+    "uptime": "93.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "86.93%",
-    "uptimeYear": "93.80%",
+    "uptimeYear": "93.82%",
     "time": 839,
     "timeDay": 521,
     "timeWeek": 668,
@@ -28,9 +28,9 @@
     "url": "https://www.altijd.design",
     "icon": "https://favicons.githubusercontent.com/www.altijd.design",
     "slug": "altijd-design",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
@@ -40,6 +40,7 @@
     "timeMonth": 637,
     "timeYear": 632,
     "dailyMinutesDown": {
+      "2022-03-10": 0,
       "2022-02-27": 15,
       "2022-01-25": 17
     }
@@ -87,9 +88,9 @@
     "url": "http://www.robalofs.nl",
     "icon": "https://favicons.githubusercontent.com/www.robalofs.nl",
     "slug": "rob-alofs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -99,6 +100,7 @@
     "timeMonth": 402,
     "timeYear": 400,
     "dailyMinutesDown": {
+      "2022-03-10": 0,
       "2022-01-25": 17
     }
   },
@@ -125,9 +127,9 @@
     "url": "https://www.ledbits.eu",
     "icon": "https://favicons.githubusercontent.com/www.ledbits.eu",
     "slug": "le-dbits",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -137,6 +139,7 @@
     "timeMonth": 618,
     "timeYear": 607,
     "dailyMinutesDown": {
+      "2022-03-10": 0,
       "2022-01-25": 16
     }
   },
