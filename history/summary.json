@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/www.nikolai.cc",
     "slug": "nikolai-cc",
     "status": "up",
-    "uptime": "94.71%",
+    "uptime": "94.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.71%",
+    "uptimeYear": "94.77%",
     "time": 814,
     "timeDay": 484,
     "timeWeek": 698,
@@ -109,9 +109,9 @@
     "url": "https://www.betsinor.fr",
     "icon": "https://favicons.githubusercontent.com/www.betsinor.fr",
     "slug": "betsinor",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -120,7 +120,9 @@
     "timeWeek": 940,
     "timeMonth": 950,
     "timeYear": 951,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-21": 0
+    }
   },
   {
     "name": "LEDbits",
