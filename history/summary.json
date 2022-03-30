@@ -70,9 +70,9 @@
     "url": "https://www.massasjehuset.nl",
     "icon": "https://favicons.githubusercontent.com/www.massasjehuset.nl",
     "slug": "massasjehuset",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -81,7 +81,9 @@
     "timeWeek": 735,
     "timeMonth": 703,
     "timeYear": 710,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-30": 0
+    }
   },
   {
     "name": "Rob Alofs",
